@@ -244,7 +244,7 @@ So, after creating the huggingface-hub package, I think tokenizers package can b
 The source code of the huggingface-hub is here(https://github.com/huggingface/huggingface_hub).
 
 And I create the debian package for huggingface-hub here(
-https://github.com/k1000dai/python3-huggingface-hub).
+https://salsa.debian.org/k1000dai/huggingface_hub).
 
 huggingface-hub only has the following dependencies.
 ```bash
